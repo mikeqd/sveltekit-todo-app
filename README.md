@@ -1,4 +1,4 @@
-# Welcome to my ToDo built with SvelteKit and SkeletonCSS!
+# Welcome to my ToDo App built with SvelteKit and SkeletonCSS!
 This is a simple ToDo application but with `SvelteKit` and `SkeletonCSS`.
 
 ## What's in this project?
