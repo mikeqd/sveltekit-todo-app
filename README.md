@@ -12,5 +12,5 @@ This is a simple ToDo application but with `SvelteKit` and `SkeletonCSS`.
 
 ## View this app live and interact with it.
 
-[Live Site](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+[Live Site](https://sveltekit-todo-app-cyan.vercel.app/).
 
